@@ -16,6 +16,7 @@
 		333676CC27B260DA008B2276 /* TrapiTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 333676CB27B260DA008B2276 /* TrapiTests.swift */; };
 		333676D627B260DA008B2276 /* TrapiUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 333676D527B260DA008B2276 /* TrapiUITests.swift */; };
 		333676D827B260DA008B2276 /* TrapiUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 333676D727B260DA008B2276 /* TrapiUITestsLaunchTests.swift */; };
+		333676E527B26F21008B2276 /* TrapiTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 333676E427B26F21008B2276 /* TrapiTableViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		333676D127B260DA008B2276 /* TrapiUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TrapiUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		333676D527B260DA008B2276 /* TrapiUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TrapiUITests.swift; sourceTree = "<group>"; };
 		333676D727B260DA008B2276 /* TrapiUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TrapiUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		333676E427B26F21008B2276 /* TrapiTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TrapiTableViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				333676BD27B260DA008B2276 /* Assets.xcassets */,
 				333676BF27B260DA008B2276 /* LaunchScreen.storyboard */,
 				333676C227B260DA008B2276 /* Info.plist */,
+				333676E427B26F21008B2276 /* TrapiTableViewCell.swift */,
 			);
 			path = Trapi;
 			sourceTree = "<group>";
@@ -260,6 +263,7 @@
 			files = (
 				333676B927B260D9008B2276 /* ViewController.swift in Sources */,
 				333676B527B260D9008B2276 /* AppDelegate.swift in Sources */,
+				333676E527B26F21008B2276 /* TrapiTableViewCell.swift in Sources */,
 				333676B727B260D9008B2276 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
